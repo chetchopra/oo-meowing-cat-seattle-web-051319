@@ -4,5 +4,4 @@ class Cat
     @name = name
     @meow = meow
   end
-  
 end
