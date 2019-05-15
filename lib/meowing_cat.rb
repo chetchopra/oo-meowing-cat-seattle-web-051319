@@ -4,4 +4,8 @@ class Cat
   #   @name = name
   #   @meow = meow
   # end
+  
+  def meow 
+    puts "meow!"
+  end
 end
